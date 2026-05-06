@@ -36,4 +36,4 @@ This repository contains basic Java exercises created to practice programming fu
 
 ## Purpose
 
-The goal of this repository is to reinforce Java fundamentals and build a solid base before moving on to Object-Oriented Programming and Spring Boot.
+The goal of this repository is to reinforce Java fundamentals and build a solid base before I move on to OOP and Spring Boot.
