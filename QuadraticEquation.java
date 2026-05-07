@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bhaskara {
+public class QuadraticEquation {
 
     public static void main(String[] args) {
 
