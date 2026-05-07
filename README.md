@@ -1,15 +1,17 @@
 # Java Basic Exercises
 
-This repository contains basic Java exercises created to practice programming fundamentals.
+This repository contains basic Java exercises created to practice programming fundamentals and reinforce core concepts of the Java language.
 
-## Topics practiced
+## Topics Practiced
 
 - Variables
 - User input with Scanner
 - Mathematical operations
-- Conditionals
+- Conditional statements
 - Basic problem solving
 - Use of the Math class
+- Output formatting
+- Validation and control flow
 
 ## Exercises
 
@@ -18,22 +20,31 @@ This repository contains basic Java exercises created to practice programming fu
 - Multiplication
 - Division
 - BMI Calculator
+- Bhaskara Equation Calculator
 - Kilometers to Miles Converter
-- Geometry area calculators:
-  - Square
-  - Rectangle
-  - Triangle
-  - Circle
-  - Trapezoid
-  - Rhombus
-- Person data input
+- Person Data Input
+
+### Geometry Area Calculators
+
+- Square
+- Rectangle
+- Triangle
+- Circle
+- Trapezoid
+- Rhombus
 
 ## Technologies
 
 - Java 21
 - VS Code
-- Git and GitHub
+- Git
+- GitHub
 
 ## Purpose
 
-The goal of this repository is to reinforce Java fundamentals and build a solid base before I move on to OOP and Spring Boot.
+The purpose of this repository is to strengthen my understanding of Java fundamentals and build a solid foundation before moving on to:
+
+- Object-Oriented Programming (OOP)
+- SQL and Databases
+- Spring Boot
+- Backend Development
