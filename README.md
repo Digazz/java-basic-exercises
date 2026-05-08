@@ -14,6 +14,7 @@ This repository contains basic Java exercises created to practice programming fu
 - Validation and control flow
 - Loops and menu systems
 - Geometry and mathematical formulas
+- Time conversion logic
 
 ## Exercises
 
@@ -27,6 +28,7 @@ This repository contains basic Java exercises created to practice programming fu
 - Temperature Converter with Interactive Menu
 - Euclidean Distance Calculator
 - Pythagorean Theorem Calculator
+- Time Converter
 - Person Data Input
 
 ### Geometry Area Calculators
