@@ -13,6 +13,7 @@ This repository contains basic Java exercises created to practice programming fu
 - Output formatting
 - Validation and control flow
 - Loops and menu systems
+- Geometry and mathematical formulas
 
 ## Exercises
 
@@ -24,6 +25,8 @@ This repository contains basic Java exercises created to practice programming fu
 - Bhaskara Equation Calculator
 - Kilometers to Miles Converter
 - Temperature Converter with Interactive Menu
+- Euclidean Distance Calculator
+- Pythagorean Theorem Calculator
 - Person Data Input
 
 ### Geometry Area Calculators
